@@ -65,7 +65,7 @@
 }
 {
 	"LEVEL":8,
-	"MOVES":5,
+	//"MOVES":5,
 	"GOAL":25,
 	"START":11,
 	"-":3,
