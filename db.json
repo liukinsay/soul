@@ -64,6 +64,17 @@
 	"REVERSE":1
 }
 {
+	"LEVEL":8,
+	"MOVES":5,
+	"GOAL":25,
+	"START":11,
+	"-":3,
+	"X":8,
+	"+":9,
+	"DEL":1,
+	"+/-":1
+}
+{
 	"LEVEL":9,
 	"MOVES":6,
 	"GOAL":11,
