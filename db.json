@@ -3,9 +3,7 @@
 		"LEVEL":1,
 		"MOVES":2,
 		"GOAL":6,
-		"START":0,
-		"+":2,
-		"X":3,
+		"START":0
 	},
 
 	{
