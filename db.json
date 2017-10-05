@@ -4,8 +4,8 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-   "levels": [
-	{
+   "lepel": [
+    {
 		"LEVEL":1,
 		"MOVES":2,
 		"GOAL":6,
@@ -111,7 +111,7 @@
 		"REVERSE":1,
 		"DEL":1
 	} 
-],
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
