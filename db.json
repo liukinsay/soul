@@ -6,7 +6,7 @@
 		"MOVES":2,
 		"GOAL":6,
 		"START":0,
-		"PLUS":2,
+		"+":2,
 		"X":3
 	},
 
@@ -15,7 +15,7 @@
 		"MOVES":5,
 		"GOAL":40,
 		"START":7,
-		"MINUS":6,
+		"-":6,
 		"X":4
 	},
 
@@ -24,9 +24,9 @@
 		"MOVES":3,
 		"GOAL":8,
 		"START":4,
-		"DIVIDE":6,
+		"/":6,
 		"X":4,
-		"PLUS":8
+		"+":8
 	},
 
 	{
@@ -35,8 +35,8 @@
 		"GOAL":12,
 		"START":7,
 		"X":3,
-		"PLUS":9,
-		"MINUS":5
+		"+":9,
+		"-":5
 	},
 
 	{
@@ -45,8 +45,8 @@
 		"GOAL":-8,
 		"START":8,
 		"X":8,
-		"PLUS":2,
-		"MINUS":2,
+		"+":2,
+		"-":2,
 		"DEL":1
 	},
 
@@ -55,9 +55,9 @@
 		"MOVES":5,
 		"GOAL":60,
 		"START":6,
-		"PLUS":4,
-		"PLUSMINUS":1,
-		"MINUS":5,
+		"+":4,
+		"+/-":1,
+		"-":5,
 		"X":4
 	},
 
@@ -66,9 +66,9 @@
 		"MOVES":6,
 		"GOAL":64,
 		"START":88,
-		"PLUS":7,
+		"+":7,
 		"X":3,
-		"DIVIDE":4,
+		"/":4,
 		"REVERSE":1
 	},
 
@@ -77,11 +77,11 @@
 		"MOVES":5,
 		"GOAL":25,
 		"START":11,
-		"MINUS":3,
+		"-":3,
 		"X":8,
-		"PLUS":9,
+		"+":9,
 		"DEL":1,
-		"PLUSMINUS":1
+		"+/-":1
 	},
 
 	{
@@ -89,10 +89,11 @@
 		"MOVES":6,
 		"GOAL":11,
 		"START":555,
-		"DIVIDE":5,
-		"MINUS":3,
+		"/":5,
+		"-":3,
 		"REVERSE":1,
-		"PLUSMINUS":1,
+		"+/-":1,
+		"-":8
 	},
 
 	{
@@ -100,13 +101,12 @@
 		"MOVES":8,
 		"GOAL":11,
 		"START":37,
-		"DIVIDE":4,
+		"/":4,
 		"X":7,
-		"PLUS":5,
+		"+":5,
 		"REVERSE":1,
 		"DEL":1
 	} 
-	
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
