@@ -106,9 +106,9 @@
 		"MOVES":8,
 		"GOAL":11,
 		"START":37,
-		"/":4,
+		"DIVIDE":4,
 		"X":7,
-		"+":5,
+		"PLUS":5,
 		"REVERSE":1,
 		"DEL":1
 	} 
